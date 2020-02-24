@@ -9,10 +9,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 ### Features
-Include Features here
+create data for everyone who uses the command
+create a currency system
+command for game you want to play
 ### Technologies
-Include Technologies here
+Node
+mySQL
+Javascript
 ### What I'll Have to Learn
-Include what you will need to learn here
+Node to SQL API
+Discord API
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/VFpM7iYp/liftoff2020
