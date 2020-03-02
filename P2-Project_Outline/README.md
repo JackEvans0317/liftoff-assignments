@@ -7,11 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+  I want to create a software to help create financial reports. It will allow users to send in their reports one by one instead of having to worry to keep track of them for the end of the week or month. I plan to use Slack as my base as that is what most corporations use. 
 ### Features
 create data for everyone who uses the command
 create a currency system
-command for game you want to play
 ### Technologies
 Node
 mySQL
