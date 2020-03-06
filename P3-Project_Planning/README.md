@@ -12,9 +12,6 @@ Include at least 3 wireframes here, adding images or files to your repository as
 https://jackevans0317.invisionapp.com/freehand/Liftoff-Project-rv00bTDy7?v=OY%2BHZSuug6tgbCYK8ZwiBQ%3D%3D&linkshare=urlcopied
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
-
+https://trello.com/b/VFpM7iYp/liftoff2020
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/JackEvans0317/LiftoffProject
